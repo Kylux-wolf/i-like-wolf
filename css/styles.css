@@ -1,9 +1,13 @@
 /**************************TAG SELECTORS**************************/
 
+head {
+
+}
+
 body {
   background-color: #222831;
   color: #dddddd;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
   text-align: center;
 }
@@ -16,7 +20,13 @@ hr {
   width: 10%;
 }
 
-h1, h2 {
+h1 {
+  font-family: 'RocknRoll One', sans-serif;
+  color: #f05454;
+}
+
+h2 {
+  font-family: 'Architects Daughter', cursive;
   color: #f05454;
 }
 
@@ -71,3 +81,10 @@ img:hover {
 a:hover {
   background-color: white;
 }
+
+
+/*
+font-family: 'Architects Daughter', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'RocknRoll One', sans-serif;
+font-family: 'Shadows Into Light', cursive;*/
